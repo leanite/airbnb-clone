@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Airbnb</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="continue_searching_place">"Continuar buscando por acomodações em %s"</string>
+    <string name="trip_info_date_range">"%s – %s de %s"</string>
+    <string name="trip_info_guests">"%s hóspedes"</string>
+    <string name="trip_info_guest">"1 hóspede"</string>
+    <string name="accommodation_price_info">"R$ %s,00 por noite"</string>
+    <string name="accommodation_beds_info">"%s camas"</string>
+    <string name="accommodation_bed_info">"1 cama"</string>
+</resources>
